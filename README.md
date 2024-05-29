@@ -1,2 +1,3 @@
-# memory_allocation
-Implementing the alloc functions in C: Understanding Memory Allocation
+# Memory Allocation
+
+Basic implementation of malloc C function to understand how memory is managed in everyday processes and how-to deal with blocks allocation, reallocation and freeing.
